@@ -1,5 +1,7 @@
 # Piscine42
 
+Este foi o meu percurso durante 1 mês na Piscine da 42 Lisboa.
+
 
 Shell 00 (100%)
 
@@ -54,4 +56,3 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: KO/OK (Depende dos 
 C 08 (100%)
 
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
-

@@ -1,6 +1,7 @@
 # Piscine42
 
-Este foi o meu percurso durante 1 mês na Piscine da 42 Lisboa.
+This was my course during 1 month at the Piscine at 42 Lisbon.
+If you like give me a star! ⭐
 
 ```diff
 Shell 00 (100%)
